@@ -36,7 +36,7 @@ quizButton.addEventListener('click', () => {
         score++;        
     }
 
-    const resultsString = `Hi ${name} you scored a ${score} out of three.`;
+    const resultsString = `Hi ${name} you scored a ${score} out of 3.`;
 
     resultsDivDisplay.textContent = resultsString;
 });

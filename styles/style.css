@@ -1,0 +1,52 @@
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(35,44,44);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    color: rgb(213,87,87);
+    font-weight: bolder;    
+}
+
+.img {
+    width: 500px;
+    height: 300px;
+    
+}
+
+main {
+    color:  rgb(251,174,48);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+section {
+    padding: 10px;
+}
+
+footer {
+    padding: 50px;
+}
+
+.button {
+    height: 100px;
+    width: 200px;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: rgb(213,87,87);
+}
+
+li {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.results {
+    font-size: 50px;
+    text-align: center;
+}
